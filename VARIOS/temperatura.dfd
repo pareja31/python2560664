@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+22
+"solicita temperatura"
+5
+1
+1
+c
+6
+3
+10
+Fahrenheit
+8
+c*1.8+32
+6
+kelvin
+8
+c+273.15
+7
+rankine
+12
+c*9/5+491.67
+4
+1
+24
+Fahrenheit," Fahrenheit"
+4
+1
+16
+kelvin," kelvin"
+4
+1
+18
+rankine," rankine"
+1

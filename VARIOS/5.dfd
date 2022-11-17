@@ -1,0 +1,98 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+1
+h
+1
+0
+1
+m
+1
+0
+1
+s
+1
+0
+4
+1
+37
+'Ingrese la hora en formato HH:MM:SS'
+5
+1
+5
+h,m,s
+7
+0
+1
+6
+s > 58
+6
+1
+1
+s
+3
+s+1
+4
+1
+43
+'La hora más un segundo es: ',h,':',m,':',s
+13
+6
+2
+1
+s
+2
+00
+1
+m
+3
+m+1
+7
+0
+1
+6
+m > 58
+4
+1
+43
+'La hora más un segundo es: ',h,':',m,':',s
+13
+6
+2
+1
+m
+2
+00
+1
+h
+3
+h+1
+7
+0
+1
+6
+h > 23
+4
+1
+43
+'La hora más un segundo es: ',h,':',m,':',s
+13
+6
+1
+1
+h
+2
+00
+4
+1
+43
+'La hora más un segundo es: ',h,':',m,':',s
+13
+13
+13
+1
