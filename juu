@@ -1,0 +1,14 @@
+moda = []
+valorinicial= vector.count(vector[0])
+for i in range (rango):
+    var= vector [i]
+valorrepetitivo= vector.count(var)
+if(valorrepetitivo>valorinicial):
+    valorinicial=valorrepetitivo
+    moda = [moda]
+    moda.inter(0,var)
+elif(valorrepetitivo==valorinicial and var not in moda ):
+    valorinicaial=valorrepetitivo
+moda.insert(i,var)  
+vector.sort()
+print("\nlista ordenada=",vector)
