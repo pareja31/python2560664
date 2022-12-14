@@ -1,3 +1,5 @@
+#este ejercicio no esta realizado por mi
+
 import random
 rang = int(input("Cuantos numero desea que se muestren "))
 fib=[0,1]
