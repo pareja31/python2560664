@@ -1,3 +1,5 @@
+#este ejercicio no esta realizado por mi
+
 def potencia(x,y):#Definimos la funcion "potencia"
     i=1
     potent=x
