@@ -1,3 +1,5 @@
+#este ejercicio no esta realizado por mi
+
 import random
 def llenar_lista(lista):#Definimos una funcion para llenar una lista con numeros aleatorios entre 1 y 100 en un rango aleatorio de 10 a 25 numeros
     lista=[round(random.randrange(100))for i in range(random.randint(10,25))]
