@@ -1,3 +1,4 @@
+#este ejercicio no esta realizado por mi
 def inverso(Numero):#Definimos la funcion "inverso"
     Reverso=0
     while Numero>0:#Mientras el numero no sea 0, restante sera la ultima cifra del numero, que luego se sumara al reverso
