@@ -1,3 +1,5 @@
+#este ejercicio no esta realizado por mi
+
 import random 
 vector=[]
 rango=random.randint(10,25)
