@@ -1,3 +1,5 @@
+#este ejercicio no esta realizado por mi
+
 def maximo_numeros(numero_maximo):#Definimos la funcion "maximo_numeros"
     numero=0#Variable para guardar los numeros de cada vuelta
     suma=0#Variable para la suma
