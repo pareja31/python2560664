@@ -1,3 +1,5 @@
+#este ejercicio no esta realizado por mi
+
 n=0 #Variable definida desde antes para que la funcion haga su labor
 
 def numeros_puestos(n): #Definimos la funcion "numeros_puestos"
